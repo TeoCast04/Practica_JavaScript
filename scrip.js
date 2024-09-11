@@ -35,3 +35,4 @@ console.log("Tu IMC es: " + imc);
 console.log("La temperatura en Fahrenheit es: " + temperaturaEnFahrenheit);
 console.log(mensajeMayorDeEdad);
 console.log(mensajeSaludo);
+// Fin
